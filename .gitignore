@@ -1,0 +1,29 @@
+# Local data and exports, except the supplied project workbook
+data/*
+*.csv
+*.tsv
+*.xlsx
+*.xls
+!data/Online Retail.xlsx
+
+# Power BI local caches and user settings
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+**/.pbi/unappliedChanges.json
+*.pbix.autosave
+*.pbit.autosave
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
