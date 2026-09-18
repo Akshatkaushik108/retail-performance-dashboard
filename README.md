@@ -4,7 +4,6 @@ A Power BI project by **Akshat Kaushik** for exploring retail sales, customer ac
 
 ![Retail analytics dashboard preview](assets/dashboard-preview.png)
 
-*The screenshot shows an earlier appearance. The included Power BI report already contains the soft gradient background.*
 
 The supplied workbook contains **541,909 retail line items**, **25,900 distinct invoice identifiers**, and **38 countries**. There are **4,372 distinct customer IDs** when the shared `Guest` label is excluded. Invoice timestamps cover **1 December 2010 to 9 December 2011**.
 
