@@ -1,6 +1,6 @@
 # Retail Performance Dashboard
 
-A Power BI project by **Akshat Kaushik** for exploring retail sales, customer activity and purchasing patterns. The dashboard combines high-level summaries with monthly trends, customer and product rankings, and shopping-hour analysis.
+A Power BI project for exploring retail sales, customer activity and purchasing patterns. The dashboard combines high-level summaries with monthly trends, customer and product rankings, and shopping-hour analysis.
 
 ![Retail analytics dashboard preview](assets/dashboard-preview.png)
 
